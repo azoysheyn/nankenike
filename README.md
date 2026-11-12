@@ -18,8 +18,13 @@
 | 2 · 11 окт 2026 | [YouTube](https://www.youtube.com/watch?v=6PXnDq-fEnQ) | [transcripts/](transcripts/stream-2026-10-11.md) | [analysis/](analysis/stream-2026-10-11.md) |
 | 3 · 18 окт 2026 | [YouTube](https://www.youtube.com/watch?v=g9FzaqwJv_M) | [transcripts/](transcripts/stream-2026-10-18.md) | [analysis/](analysis/stream-2026-10-18.md) |
 | 4 · 25 окт 2026 | [YouTube](https://www.youtube.com/watch?v=b-lVXdIDndU) | [transcripts/](transcripts/stream-2026-10-25.md) | [analysis/](analysis/stream-2026-10-25.md) |
+| 5 · 11 ноя 2026, финал 1 сезона | [YouTube](https://www.youtube.com/watch?v=jH9e_yk9rNo) | [transcripts/](transcripts/stream-2026-11-11.md) | [analysis/](analysis/stream-2026-11-11.md) |
 
-Коротко, что успели за четыре стрима, — [`recap-for-viewers.md`](recap-for-viewers.md).
+Коротко, что успели за первый сезон, — [`recap-for-viewers.md`](recap-for-viewers.md).
+
+Первый сезон стримов закончился 11 ноября 2026. Дальше язык делается офлайн: предложения —
+пул-реквестами в этот репозиторий, новости — в Телеграм-канале «Институт языкового
+моделирования».
 
 Рабочая доска, где на стримах пишется язык, — Figma-файл
 [Linear-C](https://www.figma.com/design/DSOZWd4xo9aMGPDDvuYN20/Linear-C).
