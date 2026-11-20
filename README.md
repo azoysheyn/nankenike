@@ -12,13 +12,13 @@
 
 ## Стримы
 
-| | Запись | Расшифровка | Разбор |
-|---|---|---|---|
-| 1 · 4 окт 2026 | [YouTube](https://www.youtube.com/watch?v=2ekh96zouqI) | [transcripts/](transcripts/stream-2026-10-04.md) | [analysis/](analysis/stream-2026-10-04.md) |
-| 2 · 11 окт 2026 | [YouTube](https://www.youtube.com/watch?v=6PXnDq-fEnQ) | [transcripts/](transcripts/stream-2026-10-11.md) | [analysis/](analysis/stream-2026-10-11.md) |
-| 3 · 18 окт 2026 | [YouTube](https://www.youtube.com/watch?v=g9FzaqwJv_M) | [transcripts/](transcripts/stream-2026-10-18.md) | [analysis/](analysis/stream-2026-10-18.md) |
-| 4 · 25 окт 2026 | [YouTube](https://www.youtube.com/watch?v=b-lVXdIDndU) | [transcripts/](transcripts/stream-2026-10-25.md) | [analysis/](analysis/stream-2026-10-25.md) |
-| 5 · 11 ноя 2026, финал 1 сезона | [YouTube](https://www.youtube.com/watch?v=jH9e_yk9rNo) | [transcripts/](transcripts/stream-2026-11-11.md) | [analysis/](analysis/stream-2026-11-11.md) |
+| | Запись |
+|---|---|
+| 1 · 4 окт 2026 | [YouTube](https://www.youtube.com/watch?v=2ekh96zouqI) |
+| 2 · 11 окт 2026 | [YouTube](https://www.youtube.com/watch?v=6PXnDq-fEnQ) |
+| 3 · 18 окт 2026 | [YouTube](https://www.youtube.com/watch?v=g9FzaqwJv_M) |
+| 4 · 25 окт 2026 | [YouTube](https://www.youtube.com/watch?v=b-lVXdIDndU) |
+| 5 · 11 ноя 2026, финал 1 сезона | [YouTube](https://www.youtube.com/watch?v=jH9e_yk9rNo) |
 
 Коротко, что успели за первый сезон, — [`recap-for-viewers.md`](recap-for-viewers.md).
 
@@ -34,8 +34,6 @@
 ```
 nankenike.md          стабильная версия языка
 recap-for-viewers.md  краткий пересказ для зрителей
-transcripts/          автоматические расшифровки YouTube, без правок — слова языка в них искажены
-analysis/             разбор каждого стрима: что решено, что отменено, что открыто
 images/               скриншоты Figma-доски Linear-C
 *.png                 исходные таблицы: спряжение и склонение
 ```
